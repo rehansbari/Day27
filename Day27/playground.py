@@ -1,5 +1,5 @@
 #This function tells Python that it can accept any number of arguments due to the *args
-#This demonstrates unlimited positional arguements
+#This demonstrates unlimited positional arguments
 # *args acts as a tuple where we can refer to objects by index like an array
 def add(*args):
     sum = 0
